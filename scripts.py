@@ -22,17 +22,17 @@ class Scripted(object):
 <i>𝐕𝐢𝐞𝐰 𝐲𝐨𝐮𝐫 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐝𝐨 /sthumbnail 𝐜𝐨𝐦𝐦𝐚𝐧𝐝</i>\n
 <i>𝐃𝐞𝐥𝐞𝐭𝐞 𝐲𝐨𝐮𝐫 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐝𝐨 /dthumbnail 𝐜𝐨𝐦𝐦𝐚𝐧𝐝</i>"""
 
-
+http://t.me/CatUserBlockRoBot
     ABOUT_TEXT = """
 ╭────[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
 │
-├<b>🤖 Bot Name : <a href='https://t.me/Renamer_teleroid_bot'>Rename X2 Bot</a></b>
+├<b>🤖 Bot Name : <a href='http://t.me/CatUserBlockRoBot'>Rename X2 Bot</a></b>
 │
-├<b>📢 Channel : <a href='https://t.me/TeleRoidGroup'>TÉLÉRØÎD</a></b>
+├<b>📢 Channel : <a href='https://t.me/NETFLIXINDIA2022'>NETFLIXINDIA2022</a></b>
 │
-├<b>👥 Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>
+├<b>👥 Version : <a href='http://t.me/CatUserBlockRoBot'>0.9.2 beta</a></b>
 │
-├<b>💢 Source : <a href='https://youtu.be/2FHgg8o1YY8'>Click Here</a></b>
+├<b>💢 Source : <a href='https://github.com/NORUTO-SUPPORT/Renamer-Bot'>Click Here</a></b>
 │
 ├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
 │
@@ -40,9 +40,9 @@ class Scripted(object):
 │
 ├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>@Pred∆tor</a></b>
+├<b>👨‍💻 Developer : <a href='https://t.me/IAM_NARUTO_SUPPORT'>@IAM_NARUTO_SUPPORT</a></b>
 │
-├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
+├<b>🚸 Powered By : <a href='https://t.me/new_movies_group_2021'>@new_movies_group_2021</a></b>
 │
 ╰──────[Thanks 😊]───⍟"""
 
